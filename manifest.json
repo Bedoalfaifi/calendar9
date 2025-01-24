@@ -1,6 +1,6 @@
 {
-    "name": "calendar",
-    "short_name": "calendar",
+    "name": "controller_clean_point",
+    "short_name": "controller_clean_point",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
